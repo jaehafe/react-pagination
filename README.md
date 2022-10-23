@@ -1,4 +1,6 @@
 ### React-Pagination
 
 👉 
-[deploy page](https://github.com/jaehafe/react-pagination/)
+[deploy page](https://jaehafe/github.io/react-pagination/)
+
+
